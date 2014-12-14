@@ -1,0 +1,12 @@
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug] Getting compiler-interface from component compiler for Scala 2.10.3
+[debug] Waiting for thread run-main-0 to terminate.
+[debug] Getting compiler-interface from component compiler for Scala 2.10.3
+[info] Starting scala interpreter...
+[info] 
+[debug] 	Thread run-main-0 exited.
+[debug] Interrupting remaining threads (should be all daemons).
+[debug] Interrupting thread Thread-1
+[debug] 	Interrupted Thread-1
+[debug] Sandboxed run complete..
+[debug] Exited with code 0

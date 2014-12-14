@@ -1,0 +1,8 @@
+import Checksum.calculate
+
+object Hello {
+  def main(args: Array[String]) {
+    for (arg <- args)
+      println(arg + ": " + calculate(arg))
+  }
+}
